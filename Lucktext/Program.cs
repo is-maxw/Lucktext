@@ -8,7 +8,7 @@ string country;
 
 Console.WriteLine("Vilket land bor du i?");
 country = Console.ReadLine();
-4
+
 
 string freeTime;
 
